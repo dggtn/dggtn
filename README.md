@@ -1,4 +1,4 @@
-### Hi there 👋, I'm ✨ Daniela ✨ - A computer science student! ⚡
+### Hi there , I'm  Daniela  - A computer science student! 
 
 
 
@@ -9,7 +9,7 @@
 
 </p>
 
-### About 🌷
+### About
 
 -  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | APIs | Javascript | Python | Java | React |   :zap:
 -   **Looking to start in coming days :** C# and Angular 🐞
