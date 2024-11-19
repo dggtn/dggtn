@@ -13,8 +13,7 @@
 
 -  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | APIs | Javascript | Python | Java | React |   :zap:
 -   **Looking to start in coming days :** C# and Angular 🐞
--  **Hobbies :** Reading & listening to music :headphones:
--  **Fact:** I love outdoor activities :heart:
+
 
 ## GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=dggtn9&show_icons=true&theme=dark)
