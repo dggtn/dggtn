@@ -15,8 +15,8 @@
 -   **Looking to start in coming days :** C# and Angular 
 
 ## GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=dggtn9&show_icons=true&theme=dark)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=dggtn&show_icons=true&theme=dark)
 
 ## Contribution Streaks
-![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dggtn9)
+![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dggtn)
 
