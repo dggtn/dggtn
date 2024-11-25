@@ -1,5 +1,4 @@
-### Hi there , I'm  Daniela  - A computer science student! 
-
+### Hi there , I'm  Daniela 
 
 
 <h3 align="left">Connect with me:</h3>
