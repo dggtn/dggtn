@@ -4,9 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/daniela-gangotena-265031288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-
-</p>
+### About
 <p>
 I’m Daniela Gangotena, a current Bachelor of Information Technology Management student at UADE, specializing in systems management, software development, and the application of AI in business solutions. I’m also gaining hands-on experience in Front-End & Back-End Development, UX Design, Software Quality Assurance, and Data Science.
 
@@ -17,10 +15,6 @@ Currently, I’m deepening my tech expertise through The ONE program at Alura, w
 I’m currently focused on expanding my technical skill set and exploring opportunities in software development, AI, and business technology solutions. I’m eager to collaborate on projects that bridge the gap between technology and business and continue growing as a versatile professional.
   
 </p>
-
-### About
-
--  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | APIs | Javascript | Python | Java | React |   :zap:
 
 ## GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=dggtn&show_icons=true&theme=dark)
