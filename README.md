@@ -3,14 +3,11 @@
 
 ### About
 <p>
-I’m Daniela Gangotena, a current Bachelor of Information Technology Management student at UADE, specializing in systems management, software development, and the application of AI in business solutions. I’m also gaining hands-on experience in Front-End & Back-End Development, UX Design, Software Quality Assurance, and Data Science.
+I’m Daniela, a Bachelor of Information Technology Management student at UADE, specializing in systems management, software development, and AI in business. Currently, I’m working as an apprentice as a Tech Control Execution Analyst in a corporate company, gaining hands-on experience in tech and business.
 
-With a diverse background, I have experience in both the tech and business sectors. 
+I’ve completed a 650+ hour backend development course in Java and Spring Boot, strengthening my skills in backend technologies. I also have experience in Front-End & Back-End Development, UX Design, Software Quality Assurance, and Data Science.
 
-Currently, I’m deepening my tech expertise through The ONE program at Alura, where I am learning advanced concepts in Java, Spring Framework, and testing, with over 650 hours of hands-on training. I’m also passionate about languages, holding certifications in French (B2 level) and German (B1 level), and I completed the International Baccalaureate (IB) Diploma, which instilled in me a strong foundation in critical thinking and interdisciplinary learning.
-
-I’m currently focused on expanding my technical skill set and exploring opportunities in software development, AI, and business technology solutions. I’m eager to collaborate on projects that bridge the gap between technology and business and continue growing as a versatile professional.
-  
+Fluent in French (B2) and German (B1), I hold an International Baccalaureate (IB) Diploma, which has sharpened my critical thinking and interdisciplinary approach. I’m passionate about expanding my expertise in software development, AI, and business tech solutions, and eager to contribute to innovative projects.
 </p>
 
 ## GitHub Stats
