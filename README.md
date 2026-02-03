@@ -1,18 +1,12 @@
-### Hi there , I'm  Daniela 
-<p align="left">
+## Hi there, I'm Daniela 👋
+## About
+<p> I’m a **Software Engineer 1** in the corporate sector and a Bachelor of Information Technology Management student at UADE, specializing in **systems management, software development, and AI in business**.
 
-### About
-<p>
-I’m Daniela, a Bachelor of Information Technology Management student at UADE, specializing in systems management, software development, and AI in business. Currently, I’m working as an apprentice as a Tech Control Execution Analyst in a corporate company, gaining hands-on experience in tech and business.
+I’ve completed a 650+ hour Java & Spring Boot backend development course and have hands-on experience in Front-End & Back-End Development, UX Design, Software Quality Assurance, and Data Science.
 
-I’ve completed a 650+ hour backend development course in Java and Spring Boot, strengthening my skills in backend technologies. I also have experience in Front-End & Back-End Development, UX Design, Software Quality Assurance, and Data Science.
+Fluent in French (B2) and German (B1), and holder of an International Baccalaureate (IB) Diploma, I combine technical expertise with strong analytical and interdisciplinary skills. I’m passionate about creating innovative tech solutions and contributing to impactful projects.
 
-Fluent in French (B2) and German (B1), I hold an International Baccalaureate (IB) Diploma, which has sharpened my critical thinking and interdisciplinary approach. I’m passionate about expanding my expertise in software development, AI, and business tech solutions, and eager to contribute to innovative projects.
 </p>
-
 ## GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=dggtn&show_icons=true&theme=dark)
 
 ## Contribution Streaks
-![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dggtn)
-
