@@ -7,6 +7,5 @@ I’ve completed a <b> 650+ hour Java & Spring Boot backend development course a
 Fluent in French (B2) and German (B1), and holder of an International Baccalaureate (IB) Diploma, I combine technical expertise with strong analytical and interdisciplinary skills. I’m passionate about creating innovative tech solutions and contributing to impactful projects.
 
 </p>
-## GitHub Stats
 
-## Contribution Streaks
+
